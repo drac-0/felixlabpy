@@ -14,10 +14,9 @@ FELIXDOORPY is an Internet Of Thing project where i use pyfirmata, opencv, and f
 
 Every library you need is inside this req file just install it
 
-'''bash
+```python
 pip install req.txt
-'''
-
+```
 
 
 ### REQUIREMENT
