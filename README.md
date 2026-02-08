@@ -10,6 +10,14 @@ FELIXDOORPY is an Internet Of Thing project where i use pyfirmata, opencv, and f
 
 ## INSTALLATION AND REQUIREMENT
 
+### INSTALLATION
+
+Every library you need is inside this req file just install it
+
+'''bash
+pip install req.txt
+'''
+
 ### REQUIREMENT
 
 - jumper wire
@@ -18,4 +26,4 @@ FELIXDOORPY is an Internet Of Thing project where i use pyfirmata, opencv, and f
 - button
 - breadboard
 - resistor 220 ohm
-- 
+- module relay
