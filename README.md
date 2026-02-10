@@ -28,3 +28,7 @@ pip install req.txt
 - breadboard
 - resistor 220 ohm
 - module relay
+
+### DIAGRAM
+
+![diagram](./felixlabpydiag)
