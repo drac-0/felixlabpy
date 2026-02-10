@@ -33,6 +33,10 @@ pip install req.txt
 
 ![diagram](./felixlabpydiag)
 
-as i mentioned in reqirement before, you would need solenoid door lock 12 V. Here is the link to set it up 
+as i mentioned in requirement before, you would need solenoid door lock 12 V. Here is the link to set it up 
 
 [TUTORIAL](https://www.youtube.com/watch?v=0wYp7rd4IIo)
+
+## AFTERWORD
+
+*i hope my code is self explanatory enough therefore you find no confusion while reading it*
