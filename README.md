@@ -29,6 +29,10 @@ pip install req.txt
 - resistor 220 ohm
 - module relay
 
-### DIAGRAM
+### DIAGRAM + LITTLE ADJUSTMENT YOU WOULD NEED
 
 ![diagram](./felixlabpydiag)
+
+as i mentioned in reqirement before, you would need solenoid door lock 12 V. Here is the link to set it up 
+
+[TUTORIAL](https://www.youtube.com/watch?v=0wYp7rd4IIo)
