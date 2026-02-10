@@ -8,7 +8,7 @@ this project actually has been sitting on my mini_doraco draft for a little whil
 
 FELIXDOORPY is an Internet Of Thing project where i use pyfirmata, opencv, and face recognition library as my main library. The purpose of it is to add another layer of security to any residence with features such as face recognition, hand gesture recognition, and button password.
 
-## INSTALLATION AND REQUIREMENT
+## INSTALLATION, REQUIREMENT, ETC
 
 ### INSTALLATION
 
