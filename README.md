@@ -35,6 +35,28 @@ pip install req.txt
 
 as i mentioned in requirement before, you would need solenoid door lock 12 V. Here is the link to set it up 
 
+### DOCKERIZATION
+
+Depedency setup for the face recognition library is a little bit complicated, therefore i think its a must to dockerize it
+
+- image build
+```bash
+docker build -t {name} {destination directory}
+
+- container run
+```
+sudo docker run --device /dev/video0 \
+  -e DISPLAY=$DISPLAY \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  facerecog-doorlock
+```
+```
+```
+```
+```
+
+```
+
 [TUTORIAL](https://www.youtube.com/watch?v=0wYp7rd4IIo)
 
 ## AFTERWORD
