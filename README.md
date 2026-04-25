@@ -49,7 +49,7 @@ docker build -t {name} {destination directory}
 sudo docker run --device /dev/video0 \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
-  facerecog-doorlock
+  (image name)
 ```
 
 [TUTORIAL](https://www.youtube.com/watch?v=0wYp7rd4IIo)
